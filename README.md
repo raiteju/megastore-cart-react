@@ -155,8 +155,11 @@ MIT © Teju Rai
 
 ## 📬 Contact
 
+- Your Name: [Teju Rai](https://tejurai.com) - raiteju3@gmail.com
+- Twitter: [@raiteju3](https://x.com/raiteju3)
 - GitHub: [@raiteju](https://github.com/raiteju)
-- Project Link: [https://github.com/raiteju/megastore-cart-react](https://github.com/raiteju/megastore-cart-react)
+
+Project Link: [https://github.com/raiteju/megastore-cart-react](https://github.com/raiteju/megastore-cart-react)
 
 ---
 
